@@ -12,4 +12,4 @@ This project tought me about the Tailwind css and working with custome css in Ta
 ![Bring Business](./cp2.PNG)
 ![Shining Armor](./cap3.PNG)
 
-[depolyed link](https://rode-clone-lovat.vercel.app/)
+[depolyed link](https://shopify-clone-beta.vercel.app//)
